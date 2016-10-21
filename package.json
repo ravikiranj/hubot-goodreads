@@ -18,7 +18,7 @@
 
   "dependencies": {
       "request": "^2.75.0",
-      "jsdom": "^6.0.0"
+      "jsdom": "^3.0.0"
   },
 
   "peerDependencies": {
