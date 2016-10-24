@@ -24,7 +24,3 @@ Then add **hubot-goodreads** to your `external-scripts.json`:
 user1>> hubot book mistborn
 hubot>> prints mistborn details
 ```
-
-## NPM Module
-
-https://www.npmjs.com/package/hubot-goodreads
