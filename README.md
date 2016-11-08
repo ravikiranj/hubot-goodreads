@@ -18,6 +18,9 @@ Then add **hubot-goodreads** to your `external-scripts.json`:
 ]
 ```
 
+### Configuration
+Set `HUBOT_GOODREADS_API_KEY` with the goodreads API Key
+
 ## Sample Interaction
 
 ```
